@@ -2,6 +2,7 @@
     "AZP_TOKEN": "<<your ado token>>",
     "AZP_URL": "<<your org url>>",
     "AZP_POOL": "<<your pool>>",
+    "POOL_ID": "<<your pool id>>",
     "SCALE_TYPE": "job",
     "CLUSTER_PATH": "./cluster",
     "ADO_PATH": "./ado"

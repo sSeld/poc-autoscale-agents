@@ -85,7 +85,7 @@ spec:
   triggers:
   - type: azure-pipelines
     metadata:
-      poolID: "1"
+      poolID: "{{POOL_ID}}"
       organizationURLFromEnv: "AZP_URL"
     authenticationRef:
      name: pipeline-trigger-auth
